@@ -1,5 +1,12 @@
-1.Ê×ÏÈ´î½¨ºÃphp+web·þÎñÆ÷»·¾³£¬²»»á×ÔÐÐ°Ù¶È
-2.½âÑ¹ºó½«ÎÄ¼þ¼Ð·Åµ½web·þÎñÆ÷Ö¸¶¨ÎÄ¼þÏÂ
-3.ÒÔÖ¸¶¨ÎÄ¼þ¼ÐÎª¸ù£¬ÓÃÏà¶ÔÂ·¾¶·ÃÎÊ¡£
-Èç£º½âÑ¹ËùÓÐÎÄ¼þ·ÅÔÚapacheÖ¸¶¨µÄhtdocsÎÄ¼þ¼ÐÏÂµÄcaptchaÏÂ£¨¼´½«Èý¸ö×ÓÎÄ¼þÀïÃæµÄÎÄ¼þ¶¼·Åµ½captchaÏÂ£©£¬Ôò·ÃÎÊÊý×Ö×ÖÄ¸ÎÄ¼þµØÖ·Îª£ºhttp://127.0.0.1/captcha/form.php
+1.é¦–å…ˆæ­å»ºå¥½php+webæœåŠ¡å™¨çŽ¯å¢ƒï¼Œä¸ä¼šè‡ªè¡Œç™¾åº¦
+2.è§£åŽ‹åŽå°†æ–‡ä»¶å¤¹æ”¾åˆ°webæœåŠ¡å™¨æŒ‡å®šæ–‡ä»¶ä¸‹
+3.ä»¥æŒ‡å®šæ–‡ä»¶å¤¹ä¸ºæ ¹ï¼Œç”¨ç›¸å¯¹è·¯å¾„è®¿é—®ã€‚
+
+
+å¦‚ï¼šè§£åŽ‹æ‰€æœ‰æ–‡ä»¶æ”¾åœ¨apacheæŒ‡å®šçš„htdocsæ–‡ä»¶å¤¹ä¸‹çš„captchaä¸‹ï¼ˆå³å°†ä¸‰ä¸ªå­æ–‡ä»¶é‡Œé¢çš„æ–‡ä»¶éƒ½æ”¾åˆ°captchaä¸‹ï¼‰ï¼Œåˆ™è®¿é—®æ•°å­—å­—æ¯æ–‡ä»¶åœ°å€ä¸ºï¼š
+
+http://127.0.0.1/captcha/form.php
+
+
+ã€Šçœ‹ä¸æ‡‚ã€‹
 
