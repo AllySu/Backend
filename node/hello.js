@@ -1,9 +1,4 @@
-/*
-* @Author: Administrator
-* @Date:   2018-06-29 15:17:55
-* @Last Modified by:   Administrator
-* @Last Modified time: 2018-07-04 16:10:26
-*/
+
 const http = require('http');
 
 const hostname = '127.0.0.1';
